@@ -1,0 +1,1 @@
+alert("Se você está vendo isso, sua aplicação permitiu a execução de script externo.");
